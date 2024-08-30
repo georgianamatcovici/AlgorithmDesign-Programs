@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\user2\source\repos\BoyerMoore\main.cpp(10,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user2\source\repos\BoyerMoore\main.cpp(37,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user2\source\repos\BoyerMoore\main.cpp(38,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  BoyerMoore.vcxproj -> C:\Users\user2\source\repos\BoyerMoore\x64\Debug\BoyerMoore.exe

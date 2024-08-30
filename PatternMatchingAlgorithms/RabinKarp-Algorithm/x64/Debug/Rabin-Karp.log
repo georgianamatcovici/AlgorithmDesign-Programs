@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\user2\source\repos\Rabin-Karp\main.cpp(27,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user2\source\repos\Rabin-Karp\main.cpp(28,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Rabin-Karp.vcxproj -> C:\Users\user2\source\repos\Rabin-Karp\x64\Debug\Rabin-Karp.exe

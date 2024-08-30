@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Programe PA\Advanced dynamic programming\LCS\main.cpp(18,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programe PA\Advanced dynamic programming\LCS\main.cpp(19,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  LCS.vcxproj -> D:\Programe PA\Advanced dynamic programming\LCS\x64\Debug\LCS.exe
