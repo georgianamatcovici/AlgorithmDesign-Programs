@@ -1,0 +1,1 @@
+This repository contains programs I developed during my second semester at university, focusing on Algorithm Design. The codebase includes implementations of some algorithms discussed in lectures, as well as additional programs created for seminar exercises.
